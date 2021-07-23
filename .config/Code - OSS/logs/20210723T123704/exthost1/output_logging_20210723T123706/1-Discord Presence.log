@@ -1,0 +1,498 @@
+[23/07/2021 12:37:06 - INFO] Discord Presence activated
+[23/07/2021 12:37:07 - INFO] Successfully connected to Discord
+[23/07/2021 12:37:07 - DEBUG] Loading git extension
+[23/07/2021 12:37:07 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:12 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:17 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:22 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:27 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:32 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:37 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:42 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:47 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:52 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:37:57 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:02 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:07 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:12 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:17 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:22 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:27 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:32 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:37 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:42 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:47 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:52 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:38:57 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:02 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:07 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:12 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:17 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:22 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:27 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:32 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:37 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:42 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:47 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:52 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:39:57 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:02 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:07 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:12 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:17 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:22 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:27 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:32 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:37 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:42 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:47 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:52 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:40:57 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:41:02 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:41:07 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:41:12 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:41:17 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:41:22 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:41:27 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:41:32 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 12:41:37 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627036627366,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}

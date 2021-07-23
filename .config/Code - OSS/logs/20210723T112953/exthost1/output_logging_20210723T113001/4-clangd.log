@@ -1,0 +1,150 @@
+I[11:30:02.001] clangd version 12.0.1
+I[11:30:02.001] PID: 9557
+I[11:30:02.001] Working directory: /home/gergoo007/et_cetera/projects/myos/kernel
+I[11:30:02.001] argv[0]: /usr/bin/clangd
+I[11:30:02.001] Starting LSP over stdin/stdout
+I[11:30:02.001] <-- initialize(0)
+I[11:30:02.001] Client supports legacy semanticHighlights notification and standard semanticTokens request, choosing the latter (no notifications).
+I[11:30:02.002] --> reply:initialize(0) 0 ms
+I[11:30:02.007] <-- initialized
+I[11:30:02.007] <-- textDocument/didOpen
+I[11:30:02.014] <-- textDocument/documentSymbol(1)
+I[11:30:02.014] <-- textDocument/codeAction(2)
+I[11:30:02.014] <-- textDocument/documentLink(3)
+I[11:30:02.017] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c
+I[11:30:02.017] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c version 1 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/kernel/src]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[11:30:02.018] --> textDocument/clangd.fileStatus
+I[11:30:02.036] --> textDocument/publishDiagnostics
+I[11:30:02.036] --> reply:textDocument/documentSymbol(1) 22 ms
+I[11:30:02.036] --> reply:textDocument/codeAction(2) 22 ms
+I[11:30:02.036] --> reply:textDocument/documentLink(3) 22 ms
+I[11:30:02.036] --> textDocument/clangd.fileStatus
+I[11:30:02.296] <-- textDocument/codeAction(4)
+I[11:30:02.296] --> reply:textDocument/codeAction(4) 0 ms
+I[11:30:02.296] --> textDocument/clangd.fileStatus
+I[11:30:02.311] <-- textDocument/semanticTokens/full(5)
+I[11:30:02.311] --> reply:textDocument/semanticTokens/full(5) 0 ms
+I[11:30:02.311] --> textDocument/clangd.fileStatus
+I[11:30:04.528] <-- textDocument/didClose
+I[11:30:04.528] --> textDocument/publishDiagnostics
+I[11:33:45.156] <-- textDocument/didOpen
+I[11:33:45.156] <-- textDocument/documentLink(6)
+I[11:33:45.156] <-- textDocument/codeAction(7)
+I[11:33:45.156] <-- textDocument/documentSymbol(8)
+I[11:33:45.157] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c
+I[11:33:45.157] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c version 1 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/kernel/src]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[11:33:45.157] <-- textDocument/semanticTokens/full(9)
+I[11:33:45.158] --> textDocument/clangd.fileStatus
+I[11:33:45.174] --> textDocument/publishDiagnostics
+I[11:33:45.174] --> reply:textDocument/documentLink(6) 18 ms
+I[11:33:45.174] --> reply:textDocument/codeAction(7) 18 ms
+I[11:33:45.174] --> reply:textDocument/documentSymbol(8) 18 ms
+I[11:33:45.174] --> reply:textDocument/semanticTokens/full(9) 16 ms
+I[11:33:45.174] --> textDocument/clangd.fileStatus
+I[11:33:45.434] <-- textDocument/codeAction(10)
+I[11:33:45.434] --> reply:textDocument/codeAction(10) 0 ms
+I[11:33:45.434] --> textDocument/clangd.fileStatus
+I[11:33:46.872] <-- textDocument/didClose
+I[11:33:46.872] --> textDocument/publishDiagnostics
+I[11:33:47.476] <-- textDocument/didOpen
+I[11:33:47.476] <-- textDocument/documentLink(11)
+I[11:33:47.476] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c
+I[11:33:47.476] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c version 1 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/kernel/src]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[11:33:47.476] <-- textDocument/codeAction(12)
+I[11:33:47.476] <-- textDocument/documentSymbol(13)
+I[11:33:47.477] --> textDocument/clangd.fileStatus
+I[11:33:47.489] <-- textDocument/semanticTokens/full(14)
+I[11:33:47.493] --> textDocument/publishDiagnostics
+I[11:33:47.494] --> reply:textDocument/documentLink(11) 17 ms
+I[11:33:47.494] --> reply:textDocument/codeAction(12) 17 ms
+I[11:33:47.494] --> reply:textDocument/documentSymbol(13) 17 ms
+I[11:33:47.494] --> reply:textDocument/semanticTokens/full(14) 4 ms
+I[11:33:47.494] --> textDocument/clangd.fileStatus
+I[11:33:47.751] <-- textDocument/codeAction(15)
+I[11:33:47.751] --> reply:textDocument/codeAction(15) 0 ms
+I[11:33:47.751] --> textDocument/clangd.fileStatus
+I[11:33:48.588] <-- textDocument/didClose
+I[11:33:48.588] --> textDocument/publishDiagnostics
+I[11:59:30.328] <-- textDocument/didOpen
+I[11:59:30.328] <-- textDocument/documentLink(16)
+I[11:59:30.328] <-- textDocument/codeAction(17)
+I[11:59:30.328] <-- textDocument/documentSymbol(18)
+I[11:59:30.328] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c
+I[11:59:30.328] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c version 1 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/kernel/src]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/kernel/src/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[11:59:30.329] --> textDocument/clangd.fileStatus
+I[11:59:30.339] <-- textDocument/semanticTokens/full(19)
+I[11:59:30.347] --> textDocument/publishDiagnostics
+I[11:59:30.347] --> reply:textDocument/documentLink(16) 19 ms
+I[11:59:30.347] --> reply:textDocument/codeAction(17) 19 ms
+I[11:59:30.347] --> reply:textDocument/documentSymbol(18) 19 ms
+I[11:59:30.347] --> reply:textDocument/semanticTokens/full(19) 8 ms
+I[11:59:30.347] --> textDocument/clangd.fileStatus
+I[11:59:31.790] <-- textDocument/codeAction(20)
+I[11:59:31.791] --> reply:textDocument/codeAction(20) 0 ms
+I[11:59:31.791] --> textDocument/clangd.fileStatus
+I[11:59:34.837] <-- textDocument/documentSymbol(21)
+I[11:59:34.837] <-- textDocument/didClose
+I[11:59:34.837] --> textDocument/publishDiagnostics
+I[11:59:34.837] <-- $/cancelRequest
+I[11:59:34.837] --> reply:textDocument/documentSymbol(21) 0 ms, error: Task was cancelled.
+[Error - 11:59:34 AM] Request textDocument/documentSymbol failed.
+[object Object]
+I[11:59:34.865] <-- textDocument/didOpen
+I[11:59:34.865] <-- textDocument/documentLink(22)
+I[11:59:34.865] <-- textDocument/codeAction(23)
+I[11:59:34.865] <-- textDocument/documentSymbol(24)
+I[11:59:34.865] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/kernel/src/util/util.h
+I[11:59:34.865] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/kernel/src/util/util.h version 1 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/kernel/src/util]
+/usr/bin/clang -xobjective-c++-header /home/gergoo007/et_cetera/projects/myos/kernel/src/util/util.h -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[11:59:34.866] --> textDocument/clangd.fileStatus
+I[11:59:34.885] --> textDocument/publishDiagnostics
+I[11:59:34.886] --> reply:textDocument/documentLink(22) 20 ms
+I[11:59:34.886] --> reply:textDocument/codeAction(23) 20 ms
+I[11:59:34.886] --> reply:textDocument/documentSymbol(24) 20 ms
+I[11:59:34.886] --> textDocument/clangd.fileStatus
+I[11:59:34.888] <-- textDocument/semanticTokens/full(25)
+I[11:59:34.888] --> reply:textDocument/semanticTokens/full(25) 0 ms
+I[11:59:34.888] --> textDocument/clangd.fileStatus
+I[11:59:36.918] <-- textDocument/didClose
+I[11:59:36.918] --> textDocument/publishDiagnostics
+I[11:59:41.211] <-- textDocument/didOpen
+I[11:59:41.211] <-- textDocument/documentLink(26)
+I[11:59:41.211] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/kernel/src/memory/bitmap.c
+I[11:59:41.211] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/kernel/src/memory/bitmap.c version 1 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/kernel/src/memory]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/kernel/src/memory/bitmap.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[11:59:41.211] <-- textDocument/codeAction(27)
+I[11:59:41.211] <-- textDocument/documentSymbol(28)
+I[11:59:41.212] --> textDocument/clangd.fileStatus
+I[11:59:41.224] <-- textDocument/semanticTokens/full(29)
+I[11:59:41.229] --> textDocument/publishDiagnostics
+I[11:59:41.229] --> reply:textDocument/documentLink(26) 18 ms
+I[11:59:41.230] --> reply:textDocument/codeAction(27) 18 ms
+I[11:59:41.230] --> reply:textDocument/documentSymbol(28) 18 ms
+I[11:59:41.230] --> reply:textDocument/semanticTokens/full(29) 6 ms
+I[11:59:41.230] --> textDocument/clangd.fileStatus
+I[11:59:41.981] <-- textDocument/hover(30)
+I[11:59:41.981] --> reply:textDocument/hover(30) 0 ms
+I[11:59:41.981] --> textDocument/clangd.fileStatus
+I[11:59:43.095] <-- textDocument/codeAction(31)
+I[11:59:43.095] --> reply:textDocument/codeAction(31) 0 ms
+I[11:59:43.095] --> textDocument/clangd.fileStatus
+I[11:59:46.393] <-- textDocument/hover(32)
+I[11:59:46.394] --> reply:textDocument/hover(32) 1 ms
+I[11:59:46.394] --> textDocument/clangd.fileStatus
+I[11:59:46.692] <-- textDocument/hover(33)
+I[11:59:46.693] --> reply:textDocument/hover(33) 1 ms
+I[11:59:46.693] --> textDocument/clangd.fileStatus
+I[12:29:43.584] <-- shutdown(34)
+I[12:29:43.584] --> reply:shutdown(34) 0 ms
+E[12:29:43.586] Transport error: Input/output error
+I[12:29:43.586] LSP finished, exiting with status 1

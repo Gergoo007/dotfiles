@@ -1,0 +1,100 @@
+[2021-07-23 10:35:32.846] [exthost] [info] extension host started
+[2021-07-23 10:35:32.915] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2021-07-23 10:35:32.915] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2021-07-23 10:35:32.918] [exthost] [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd {"startup":false,"extensionId":{"value":"llvm-vs-code-extensions.vscode-clangd","_lower":"llvm-vs-code-extensions.vscode-clangd"},"activationEvent":"onLanguage:c"}
+[2021-07-23 10:35:32.918] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.11/out/src/extension
+[2021-07-23 10:35:33.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-23 10:35:33.059] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-07-23 10:35:33.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-23 10:35:33.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-07-23 10:35:33.072] [exthost] [info] ExtensionService#_doActivateExtension slevesque.shader {"startup":true,"extensionId":{"value":"CADENAS.vscode-glsllint","_lower":"cadenas.vscode-glsllint"},"activationEvent":"*"}
+[2021-07-23 10:35:33.072] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/slevesque.shader-1.1.5/out/extension
+[2021-07-23 10:35:33.384] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-07-23 10:35:33.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/equinusocio.vsc-material-theme-33.2.2/build/material.theme.config
+[2021-07-23 10:35:33.388] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-07-23 10:35:33.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-2.0.0/out/src/extension
+[2021-07-23 10:35:33.392] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2021-07-23 10:35:33.392] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/icrawl.discord-vscode-5.6.3/dist/extension
+[2021-07-23 10:35:33.488] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-23 10:35:33.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-23 10:35:33.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-23 10:35:33.574] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-07-23 10:35:33.576] [exthost] [info] ExtensionService#_doActivateExtension CADENAS.vscode-glsllint {"startup":false,"extensionId":{"value":"CADENAS.vscode-glsllint","_lower":"cadenas.vscode-glsllint"},"activationEvent":"*"}
+[2021-07-23 10:35:33.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/cadenas.vscode-glsllint-1.4.0/dist/extension
+[2021-07-23 10:35:33.666] [exthost] [info] eager extensions activated
+[2021-07-23 10:35:33.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-23 10:35:33.671] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-23 10:35:33.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-23 10:35:33.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-23 10:35:33.677] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-23 10:35:33.677] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-23 10:35:33.678] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-07-23 10:35:33.678] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/esbenp.prettier-vscode-6.4.0/dist/extension
+[2021-07-23 10:35:33.718] [exthost] [info] ExtensionService#_doActivateExtension usernamehw.errorlens {"startup":false,"extensionId":{"value":"usernamehw.errorlens","_lower":"usernamehw.errorlens"},"activationEvent":"onStartupFinished"}
+[2021-07-23 10:35:33.718] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/usernamehw.errorlens-3.2.7/dist/extension
+[2021-07-23 10:36:55.415] [exthost] [info] ExtensionService#_doActivateExtension jasonlhy.hungry-delete {"startup":false,"extensionId":{"value":"jasonlhy.hungry-delete","_lower":"jasonlhy.hungry-delete"},"activationEvent":"onCommand:extension.smartBackspace"}
+[2021-07-23 10:36:55.415] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/jasonlhy.hungry-delete-1.6.0/out/src/extension
+[2021-07-23 10:38:59.520] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:38:59.520] [exthost] [error] {"_isCancelled":false,"_emitter":{"_disposed":false,"_listeners":{"_first":{},"_last":{},"_size":0}}}
+[2021-07-23 10:42:14.909] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:42:14.909] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 10:42:17.690] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:42:17.690] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 10:42:31.895] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:42:31.895] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 10:42:45.711] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:42:45.711] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 10:43:55.426] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:43:55.426] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 10:43:55.757] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:43:55.757] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 10:50:43.243] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:50:43.243] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 10:53:58.770] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 10:53:58.770] [exthost] [error] {"_isCancelled":false,"_emitter":{"_disposed":false,"_listeners":{"_first":{},"_last":{},"_size":0}}}
+[2021-07-23 11:16:15.253] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:16:15.253] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:21:56.534] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:21:56.534] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:23:41.963] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:23:41.963] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:23:47.171] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:23:47.171] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:24:43.197] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:24:43.197] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:24:47.605] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:24:47.606] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:25:09.607] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:25:09.607] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:25:32.428] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:25:32.428] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:25:33.521] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:25:33.521] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:25:35.693] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:25:35.693] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:25:54.983] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:25:54.983] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:26:09.156] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:26:09.156] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:26:12.872] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:26:12.872] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:26:15.941] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:26:15.941] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:26:34.556] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:26:34.556] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:26:39.426] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:26:39.426] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:26:43.075] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:26:43.075] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:26:46.205] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:26:46.205] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:26:57.547] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:26:57.547] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:29:47.571] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:29:47.571] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:29:48.038] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:29:48.038] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:29:48.709] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-23 11:29:48.709] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-23 11:29:50.260] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-23 11:29:51.266] [exthost] [info] exiting with code 0

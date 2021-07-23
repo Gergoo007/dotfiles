@@ -1,0 +1,65 @@
+[2021-07-19 19:50:43.217] [exthost] [info] extension host started
+[2021-07-19 19:50:43.324] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2021-07-19 19:50:43.324] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2021-07-19 19:50:43.326] [exthost] [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd {"startup":false,"extensionId":{"value":"llvm-vs-code-extensions.vscode-clangd","_lower":"llvm-vs-code-extensions.vscode-clangd"},"activationEvent":"onLanguage:c"}
+[2021-07-19 19:50:43.326] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.11/out/src/extension
+[2021-07-19 19:50:43.539] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-19 19:50:43.539] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-07-19 19:50:43.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-19 19:50:43.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-07-19 19:50:43.551] [exthost] [info] ExtensionService#_doActivateExtension slevesque.shader {"startup":true,"extensionId":{"value":"CADENAS.vscode-glsllint","_lower":"cadenas.vscode-glsllint"},"activationEvent":"*"}
+[2021-07-19 19:50:43.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/slevesque.shader-1.1.5/out/extension
+[2021-07-19 19:50:43.859] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-07-19 19:50:43.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/equinusocio.vsc-material-theme-33.2.2/build/material.theme.config
+[2021-07-19 19:50:43.863] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-07-19 19:50:43.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-2.0.0/out/src/extension
+[2021-07-19 19:50:43.868] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2021-07-19 19:50:43.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/icrawl.discord-vscode-5.6.3/dist/extension
+[2021-07-19 19:50:43.964] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-19 19:50:43.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-19 19:50:44.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-19 19:50:44.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-07-19 19:50:44.049] [exthost] [info] ExtensionService#_doActivateExtension CADENAS.vscode-glsllint {"startup":false,"extensionId":{"value":"CADENAS.vscode-glsllint","_lower":"cadenas.vscode-glsllint"},"activationEvent":"*"}
+[2021-07-19 19:50:44.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/cadenas.vscode-glsllint-1.4.0/dist/extension
+[2021-07-19 19:50:44.146] [exthost] [info] eager extensions activated
+[2021-07-19 19:50:44.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-19 19:50:44.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-19 19:50:44.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-19 19:50:44.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-19 19:50:44.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-19 19:50:44.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-19 19:50:44.158] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-07-19 19:50:44.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/esbenp.prettier-vscode-6.4.0/dist/extension
+[2021-07-19 19:50:44.199] [exthost] [info] ExtensionService#_doActivateExtension usernamehw.errorlens {"startup":false,"extensionId":{"value":"usernamehw.errorlens","_lower":"usernamehw.errorlens"},"activationEvent":"onStartupFinished"}
+[2021-07-19 19:50:44.199] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/usernamehw.errorlens-3.2.7/dist/extension
+[2021-07-19 19:55:22.113] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 19:55:22.113] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 19:55:26.905] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 19:55:26.905] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 19:55:44.888] [exthost] [info] ExtensionService#_doActivateExtension jasonlhy.hungry-delete {"startup":false,"extensionId":{"value":"jasonlhy.hungry-delete","_lower":"jasonlhy.hungry-delete"},"activationEvent":"onCommand:extension.smartBackspace"}
+[2021-07-19 19:55:44.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gergoo007/.vscode-oss/extensions/jasonlhy.hungry-delete-1.6.0/out/src/extension
+[2021-07-19 19:57:00.503] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 19:57:00.503] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 19:57:09.894] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 19:57:09.894] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 19:57:13.192] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 19:57:13.192] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 20:00:51.312] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 20:00:51.312] [exthost] [error] {"_isCancelled":false,"_emitter":{"_disposed":false,"_listeners":{"_first":{},"_last":{},"_size":0}}}
+[2021-07-19 20:02:09.352] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 20:02:09.352] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 20:02:11.691] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 20:02:11.691] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 20:04:06.691] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 20:04:06.691] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 20:04:07.298] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 20:04:07.298] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-19 20:04:43.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-19 20:04:43.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-19 20:04:43.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-19 20:04:43.272] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-19 20:04:43.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-19 20:04:43.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-07-19 20:05:16.630] [exthost] [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+[2021-07-19 20:05:16.630] [exthost] [error] {"_isCancelled":true,"_emitter":null}
+[2021-07-22 17:56:22.322] [exthost] [info] extension host terminating: parent process 4136 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)

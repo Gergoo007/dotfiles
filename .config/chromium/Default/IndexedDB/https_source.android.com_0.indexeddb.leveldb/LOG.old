@@ -1,0 +1,7 @@
+2021/07/08-16:02:26.265 26ea Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_source.android.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-16:02:26.265 26ea Recovering log #3
+2021/07/08-16:02:26.267 26ea Reusing old log /home/gergoo007/.config/chromium/Default/IndexedDB/https_source.android.com_0.indexeddb.leveldb/000003.log 
+2021/07/08-17:12:30.433 5ea6 Level-0 table #5: started
+2021/07/08-17:12:30.435 5ea6 Level-0 table #5: 8328 bytes OK
+2021/07/08-17:12:30.436 5ea6 Delete type=0 #3
+2021/07/08-17:12:30.437 5ea6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,32 @@
+2021/07/23-13:00:11.449 4a6 Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/23-13:00:11.449 4a6 Recovering log #940
+2021/07/23-13:00:11.450 4a6 Reusing old log /home/gergoo007/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000940.log 
+2021/07/23-13:00:11.450 4a6 Delete type=2 #939
+2021/07/23-13:00:13.708 4a6 Level-0 table #945: started
+2021/07/23-13:00:13.716 4a6 Level-0 table #945: 215452 bytes OK
+2021/07/23-13:00:13.718 4a6 Delete type=0 #940
+2021/07/23-13:00:13.718 4a6 Manual compaction at level-0 from ' 0\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' 1\x01\x00\x00\x00' @ 0 : 0; will stop at ' 1\x01\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 369090 : 1
+2021/07/23-13:00:13.718 4a6 Compacting 1@0 + 1@1 files
+2021/07/23-13:00:13.720 4a6 Generated table #946@0: 763 keys, 19926 bytes
+2021/07/23-13:00:13.720 4a6 Compacted 1@0 + 1@1 files => 19926 bytes
+2021/07/23-13:00:13.722 4a6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/23-13:00:13.722 4a6 Delete type=2 #945
+2021/07/23-13:00:13.722 4a6 Manual compaction at level-0 from ' 1\x01\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 369090 : 1 .. ' 1\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/23-13:00:13.758 4a6 Level-0 table #948: started
+2021/07/23-13:00:13.759 4a6 Level-0 table #948: 24082 bytes OK
+2021/07/23-13:00:13.761 4a6 Delete type=0 #944
+2021/07/23-13:00:13.761 4a6 Delete type=2 #942
+2021/07/23-13:00:13.761 4a6 Manual compaction at level-0 from ' 1\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' 2\x01\x00\x00\x00' @ 0 : 0; will stop at ' 2\x01\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 369903 : 1
+2021/07/23-13:00:13.761 4a6 Compacting 1@0 + 1@1 files
+2021/07/23-13:00:13.764 4a6 Generated table #949@0: 777 keys, 19382 bytes
+2021/07/23-13:00:13.764 4a6 Compacted 1@0 + 1@1 files => 19382 bytes
+2021/07/23-13:00:13.766 4a6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/23-13:00:13.766 4a6 Delete type=2 #948
+2021/07/23-13:00:13.766 4a6 Manual compaction at level-0 from ' 2\x01\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 369903 : 1 .. ' 2\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/23-13:02:43.522 55e4 Compacting 1@1 + 1@2 files
+2021/07/23-13:02:43.524 55e4 Generated table #950@1: 614 keys, 28364 bytes
+2021/07/23-13:02:43.524 55e4 Compacted 1@1 + 1@2 files => 28364 bytes
+2021/07/23-13:02:43.627 55e4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/23-13:02:43.627 55e4 Delete type=2 #936
+2021/07/23-13:02:43.627 55e4 Delete type=2 #946
+2021/07/23-13:02:43.627 55e4 Delete type=2 #949

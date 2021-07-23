@@ -1,0 +1,6 @@
+2021/07/18-14:36:49.745 7adb Creating DB /home/gergoo007/.config/chromium/Default/IndexedDB/https_scrapmechanic.fandom.com_0.indexeddb.leveldb since it was missing.
+2021/07/18-14:36:49.748 7adb Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_scrapmechanic.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/18-15:40:16.327 7e41 Level-0 table #5: started
+2021/07/18-15:40:16.330 7e41 Level-0 table #5: 47663 bytes OK
+2021/07/18-15:40:16.333 7e41 Delete type=0 #3
+2021/07/18-15:40:16.333 7e41 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

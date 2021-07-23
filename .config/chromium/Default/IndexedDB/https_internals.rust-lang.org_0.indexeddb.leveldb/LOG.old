@@ -1,0 +1,6 @@
+2021/06/25-13:46:14.597 1823 Creating DB /home/gergoo007/.config/chromium/Default/IndexedDB/https_internals.rust-lang.org_0.indexeddb.leveldb since it was missing.
+2021/06/25-13:46:14.601 1823 Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_internals.rust-lang.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/25-13:46:49.190 1646 Level-0 table #5: started
+2021/06/25-13:46:49.192 1646 Level-0 table #5: 2539 bytes OK
+2021/06/25-13:46:49.194 1646 Delete type=0 #3
+2021/06/25-13:46:49.194 1646 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

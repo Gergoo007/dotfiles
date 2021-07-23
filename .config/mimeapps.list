@@ -1,0 +1,4 @@
+
+[Default Applications]
+x-scheme-handler/eclipse+installer=_home_gergoo007_Downloads_eclipse-installer_.desktop
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_home_gergoo007_eclipse_java-2021-06_eclipse_.desktop

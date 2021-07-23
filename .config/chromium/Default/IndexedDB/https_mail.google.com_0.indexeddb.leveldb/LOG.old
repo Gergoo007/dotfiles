@@ -1,0 +1,9 @@
+2021/07/08-18:12:15.717 365a Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-18:12:15.717 365a Recovering log #11
+2021/07/08-18:12:15.721 365a Reusing old log /home/gergoo007/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2021/07/08-18:12:18.151 36af Compacting 1@1 + 1@2 files
+2021/07/08-18:12:18.163 36af Generated table #14@1: 112 keys, 74845 bytes
+2021/07/08-18:12:18.163 36af Compacted 1@1 + 1@2 files => 74845 bytes
+2021/07/08-18:12:18.166 36af compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/08-18:12:18.166 36af Delete type=2 #9
+2021/07/08-18:12:18.166 36af Delete type=2 #12

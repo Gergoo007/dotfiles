@@ -1,0 +1,6 @@
+2021/07/08-17:28:08.163 7057 Creating DB /home/gergoo007/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb since it was missing.
+2021/07/08-17:28:08.167 7057 Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-20:19:12.591 3743 Level-0 table #5: started
+2021/07/08-20:19:12.592 3743 Level-0 table #5: 3321 bytes OK
+2021/07/08-20:19:12.594 3743 Delete type=0 #3
+2021/07/08-20:19:12.594 3743 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/07/23-08:23:06.698 2fc0 Creating DB /home/gergoo007/.config/chromium/Default/IndexedDB/https_www.jerriepelser.com_0.indexeddb.leveldb since it was missing.
+2021/07/23-08:23:06.702 2fc0 Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_www.jerriepelser.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/23-08:24:15.219 2fc0 Level-0 table #5: started
+2021/07/23-08:24:15.220 2fc0 Level-0 table #5: 1903 bytes OK
+2021/07/23-08:24:15.222 2fc0 Delete type=0 #3
+2021/07/23-08:24:15.222 2fc0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

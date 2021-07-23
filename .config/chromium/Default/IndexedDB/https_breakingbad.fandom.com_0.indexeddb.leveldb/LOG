@@ -1,0 +1,27 @@
+2021/07/19-16:53:15.804 1bd6 Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_breakingbad.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/19-16:53:15.804 1bd6 Recovering log #3
+2021/07/19-16:53:15.806 1bd6 Reusing old log /home/gergoo007/.config/chromium/Default/IndexedDB/https_breakingbad.fandom.com_0.indexeddb.leveldb/000003.log 
+2021/07/19-17:16:26.901 1e5b Level-0 table #5: started
+2021/07/19-17:16:26.915 1e5b Level-0 table #5: 903350 bytes OK
+2021/07/19-17:16:26.918 1e5b Delete type=0 #3
+2021/07/19-17:29:51.463 1f71 Level-0 table #7: started
+2021/07/19-17:29:51.481 1f71 Level-0 table #7: 863583 bytes OK
+2021/07/19-17:29:51.482 1f71 Delete type=0 #4
+2021/07/19-17:29:51.710 2018 Compacting 1@1 + 1@2 files
+2021/07/19-17:29:51.724 2018 Generated table #8@1: 252 keys, 16521 bytes
+2021/07/19-17:29:51.724 2018 Compacted 1@1 + 1@2 files => 16521 bytes
+2021/07/19-17:29:51.726 2018 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/19-17:29:51.726 2018 Delete type=2 #5
+2021/07/19-17:29:51.726 2018 Delete type=2 #7
+2021/07/19-18:46:10.023 239e Level-0 table #10: started
+2021/07/19-18:46:10.025 239e Level-0 table #10: 64058 bytes OK
+2021/07/19-18:46:10.027 239e Delete type=0 #6
+2021/07/19-18:46:10.027 239e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/19-18:46:10.027 239e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x04\x02\x01\x07\x00c\x00u\x00r\x00r\x00e\x00n\x00t' @ 60139 : 1
+2021/07/19-18:46:10.027 239e Compacting 1@1 + 1@2 files
+2021/07/19-18:46:10.029 239e Generated table #11@1: 162 keys, 11789 bytes
+2021/07/19-18:46:10.029 239e Compacted 1@1 + 1@2 files => 11789 bytes
+2021/07/19-18:46:10.030 239e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/19-18:46:10.031 239e Delete type=2 #10
+2021/07/19-18:46:10.031 239e Delete type=2 #8
+2021/07/19-18:46:10.031 239e Manual compaction at level-1 from '\x00\x01\x04\x02\x01\x07\x00c\x00u\x00r\x00r\x00e\x00n\x00t' @ 60139 : 1 .. (end); will stop at (end)

@@ -1,0 +1,39 @@
+[23/07/2021 09:40:59 - INFO] Discord Presence activated
+[23/07/2021 09:40:59 - INFO] Successfully connected to Discord
+[23/07/2021 09:40:59 - DEBUG] Loading git extension
+[23/07/2021 09:40:59 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627026059336,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 09:41:04 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627026059336,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 09:41:09 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627026059336,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 09:41:14 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627026059336,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}

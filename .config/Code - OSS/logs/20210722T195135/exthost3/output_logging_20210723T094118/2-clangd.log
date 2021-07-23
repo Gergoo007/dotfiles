@@ -1,0 +1,162 @@
+I[09:41:18.465] clangd version 12.0.1
+I[09:41:18.465] PID: 21057
+I[09:41:18.465] Working directory: /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader
+I[09:41:18.465] argv[0]: /usr/bin/clangd
+I[09:41:18.465] Starting LSP over stdin/stdout
+I[09:41:18.466] <-- initialize(0)
+I[09:41:18.466] Client supports legacy semanticHighlights notification and standard semanticTokens request, choosing the latter (no notifications).
+I[09:41:18.467] --> reply:initialize(0) 0 ms
+I[09:41:18.629] <-- initialized
+I[09:41:18.629] <-- textDocument/didOpen
+I[09:41:18.630] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c
+I[09:41:18.630] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c version 1 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[09:41:18.631] --> textDocument/clangd.fileStatus
+I[09:41:18.654] <-- textDocument/codeAction(1)
+I[09:41:18.654] <-- textDocument/documentLink(2)
+I[09:41:18.699] --> textDocument/publishDiagnostics
+I[09:41:18.699] --> reply:textDocument/codeAction(1) 45 ms
+I[09:41:18.699] --> reply:textDocument/documentLink(2) 44 ms
+I[09:41:18.699] --> textDocument/clangd.fileStatus
+I[09:41:18.932] <-- textDocument/semanticTokens/full(3)
+I[09:41:18.933] --> reply:textDocument/semanticTokens/full(3) 0 ms
+I[09:41:18.933] --> textDocument/clangd.fileStatus
+I[09:41:19.049] <-- textDocument/codeAction(4)
+I[09:41:19.049] --> reply:textDocument/codeAction(4) 0 ms
+I[09:41:19.049] --> textDocument/clangd.fileStatus
+I[09:41:19.981] <-- textDocument/codeAction(5)
+I[09:41:19.981] <-- textDocument/documentSymbol(6)
+I[09:41:19.982] --> reply:textDocument/codeAction(5) 0 ms
+I[09:41:19.983] --> reply:textDocument/documentSymbol(6) 1 ms
+I[09:41:19.983] --> textDocument/clangd.fileStatus
+I[09:41:23.626] <-- textDocument/codeAction(7)
+I[09:41:23.626] --> reply:textDocument/codeAction(7) 0 ms
+I[09:41:23.626] --> textDocument/clangd.fileStatus
+I[09:41:24.408] <-- textDocument/didChange
+I[09:41:24.408] --> textDocument/clangd.fileStatus
+I[09:41:24.412] <-- textDocument/completion(8)
+I[09:41:24.416] Code complete: sema context Statement, query scopes [] (AnyScope=true), expected type <none>
+I[09:41:24.416] Code complete: 2 results from Sema, 4 from Index, 0 matched, 0 from identifiers, 6 returned (incomplete).
+I[09:41:24.416] --> reply:textDocument/completion(8) 4 ms
+I[09:41:24.458] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c
+I[09:41:24.459] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c version 2 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[09:41:24.460] --> textDocument/clangd.fileStatus
+I[09:41:24.460] --> textDocument/clangd.fileStatus
+I[09:41:24.460] --> textDocument/clangd.fileStatus
+I[09:41:24.477] --> textDocument/publishDiagnostics
+I[09:41:24.477] --> textDocument/clangd.fileStatus
+I[09:41:24.489] <-- textDocument/didChange
+I[09:41:24.489] --> textDocument/clangd.fileStatus
+I[09:41:24.539] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c
+I[09:41:24.540] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c version 3 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[09:41:24.541] --> textDocument/clangd.fileStatus
+I[09:41:24.541] --> textDocument/clangd.fileStatus
+I[09:41:24.541] --> textDocument/clangd.fileStatus
+I[09:41:24.556] --> textDocument/publishDiagnostics
+I[09:41:24.556] --> textDocument/clangd.fileStatus
+I[09:41:24.697] <-- textDocument/semanticTokens/full/delta(9)
+I[09:41:24.698] --> reply:textDocument/semanticTokens/full/delta(9) 0 ms
+I[09:41:24.698] --> textDocument/clangd.fileStatus
+I[09:41:24.815] <-- textDocument/codeAction(10)
+I[09:41:24.815] --> reply:textDocument/codeAction(10) 0 ms
+I[09:41:24.815] --> textDocument/clangd.fileStatus
+I[09:41:24.839] <-- textDocument/documentSymbol(11)
+I[09:41:24.842] --> reply:textDocument/documentSymbol(11) 2 ms
+I[09:41:24.843] --> textDocument/clangd.fileStatus
+I[09:41:25.396] <-- textDocument/documentLink(12)
+I[09:41:25.396] --> reply:textDocument/documentLink(12) 0 ms
+I[09:41:25.397] --> textDocument/clangd.fileStatus
+I[09:41:25.456] <-- textDocument/didSave
+I[09:41:25.456] --> textDocument/clangd.fileStatus
+I[09:41:25.506] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c
+I[09:41:25.506] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c version 3 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[09:41:25.507] --> textDocument/clangd.fileStatus
+I[09:41:25.507] --> textDocument/clangd.fileStatus
+I[09:41:25.507] --> textDocument/clangd.fileStatus
+I[09:41:25.507] --> textDocument/clangd.fileStatus
+I[09:41:36.260] <-- textDocument/codeAction(13)
+I[09:41:36.260] --> reply:textDocument/codeAction(13) 0 ms
+I[09:41:36.260] --> textDocument/clangd.fileStatus
+I[09:41:37.164] <-- textDocument/documentHighlight(14)
+I[09:41:37.164] --> reply:textDocument/documentHighlight(14) 0 ms
+I[09:41:37.164] --> textDocument/clangd.fileStatus
+I[09:41:37.188] <-- textDocument/documentHighlight(15)
+I[09:41:37.188] --> reply:textDocument/documentHighlight(15) 0 ms
+I[09:41:37.188] --> textDocument/clangd.fileStatus
+I[09:41:38.057] <-- textDocument/codeAction(16)
+I[09:41:38.057] --> reply:textDocument/codeAction(16) 0 ms
+I[09:41:38.057] --> textDocument/clangd.fileStatus
+I[09:41:39.656] <-- textDocument/hover(17)
+I[09:41:39.657] --> reply:textDocument/hover(17) 0 ms
+I[09:41:39.657] --> textDocument/clangd.fileStatus
+I[09:41:39.957] <-- textDocument/hover(18)
+I[09:41:39.958] --> reply:textDocument/hover(18) 0 ms
+I[09:41:39.958] --> textDocument/clangd.fileStatus
+I[09:41:40.159] <-- textDocument/hover(19)
+I[09:41:40.159] --> reply:textDocument/hover(19) 0 ms
+I[09:41:40.159] --> textDocument/clangd.fileStatus
+I[09:42:05.790] <-- textDocument/documentSymbol(20)
+I[09:42:05.790] --> reply:textDocument/documentSymbol(20) 0 ms
+I[09:42:05.791] --> textDocument/clangd.fileStatus
+I[09:42:28.353] <-- textDocument/documentLink(21)
+I[09:42:28.354] --> reply:textDocument/documentLink(21) 0 ms
+I[09:42:28.354] --> textDocument/clangd.fileStatus
+I[09:42:28.354] <-- textDocument/codeAction(22)
+I[09:42:28.354] <-- textDocument/documentSymbol(23)
+I[09:42:28.354] <-- $/cancelRequest
+I[09:42:28.354] <-- textDocument/codeAction(24)
+I[09:42:28.354] --> reply:textDocument/codeAction(22) 0 ms
+I[09:42:28.355] --> reply:textDocument/documentSymbol(23) 0 ms
+I[09:42:28.355] --> reply:textDocument/codeAction(24) 0 ms
+I[09:42:28.355] --> textDocument/clangd.fileStatus
+I[09:42:29.958] <-- textDocument/didSave
+I[09:42:29.958] --> textDocument/clangd.fileStatus
+I[09:42:30.008] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c
+I[09:42:30.008] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c version 3 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[09:42:30.009] --> textDocument/clangd.fileStatus
+I[09:42:30.009] --> textDocument/clangd.fileStatus
+I[09:42:30.009] --> textDocument/clangd.fileStatus
+I[09:42:30.010] --> textDocument/clangd.fileStatus
+I[09:42:31.215] <-- textDocument/codeAction(25)
+I[09:42:31.215] --> reply:textDocument/codeAction(25) 0 ms
+I[09:42:31.215] --> textDocument/clangd.fileStatus
+I[09:42:31.876] <-- textDocument/didSave
+I[09:42:31.877] --> textDocument/clangd.fileStatus
+I[09:42:31.927] Failed to find compilation database for /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c
+I[09:42:31.927] ASTWorker building file /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c version 3 with command clangd fallback
+[/home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader]
+/usr/bin/clang /home/gergoo007/et_cetera/projects/myos/bootloader/gnu-efi/bootloader/main.c -fsyntax-only -resource-dir=/usr/lib/clang/12.0.1
+I[09:42:31.928] --> textDocument/clangd.fileStatus
+I[09:42:31.928] --> textDocument/clangd.fileStatus
+I[09:42:31.928] --> textDocument/clangd.fileStatus
+I[09:42:31.928] --> textDocument/clangd.fileStatus
+I[09:42:34.234] <-- textDocument/documentSymbol(26)
+I[09:42:34.235] --> reply:textDocument/documentSymbol(26) 0 ms
+I[09:42:34.235] --> textDocument/clangd.fileStatus
+I[09:42:35.746] <-- textDocument/documentLink(27)
+I[09:42:35.746] --> reply:textDocument/documentLink(27) 0 ms
+I[09:42:35.746] --> textDocument/clangd.fileStatus
+I[09:42:35.746] <-- textDocument/codeAction(28)
+I[09:42:35.747] <-- textDocument/documentSymbol(29)
+I[09:42:35.747] <-- $/cancelRequest
+I[09:42:35.747] <-- textDocument/codeAction(30)
+I[09:42:35.747] --> reply:textDocument/codeAction(28) 0 ms
+I[09:42:35.747] --> reply:textDocument/documentSymbol(29) 0 ms
+I[09:42:35.747] --> reply:textDocument/codeAction(30) 0 ms
+I[09:42:35.748] --> textDocument/clangd.fileStatus
+I[09:42:38.056] <-- textDocument/hover(31)
+I[09:42:38.056] --> reply:textDocument/hover(31) 0 ms
+I[09:42:38.056] --> textDocument/clangd.fileStatus
+I[09:42:47.871] <-- shutdown(32)
+I[09:42:47.871] --> reply:shutdown(32) 0 ms
+E[09:42:47.873] Transport error: Input/output error
+I[09:42:47.873] LSP finished, exiting with status 1

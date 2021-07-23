@@ -1,0 +1,6 @@
+2021/06/13-12:35:05.820 1376 Creating DB /home/gergoo007/.config/chromium/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb since it was missing.
+2021/06/13-12:35:05.823 1376 Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/13-14:01:56.512 2372 Level-0 table #5: started
+2021/06/13-14:01:56.515 2372 Level-0 table #5: 358041 bytes OK
+2021/06/13-14:01:56.517 2372 Delete type=0 #3
+2021/06/13-14:01:56.517 2372 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

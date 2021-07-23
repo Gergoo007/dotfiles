@@ -1,0 +1,96 @@
+{
+   "checksum": "ee42174b0534bac58807228bec08529f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13267227662655627",
+            "guid": "b7985368-d2b0-415b-ad6e-e1f294116934",
+            "id": "5",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13267308350324381",
+            "guid": "3c8addf7-a644-4569-aaec-24e0649f92a8",
+            "id": "7",
+            "name": "Based Cooking 8)",
+            "type": "url",
+            "url": "https://based.cooking/"
+         }, {
+            "date_added": "13269028183777651",
+            "guid": "6997e1d7-8b54-4c99-8489-8b58f53bd11e",
+            "id": "9",
+            "name": "APIC timer",
+            "type": "url",
+            "url": "https://georgeclaghorn.com/2020/08/8259-pic-to-apic/"
+         }, {
+            "date_added": "13269115841092483",
+            "guid": "1ac1afda-aa38-4179-87ca-39d23c48a8b5",
+            "id": "11",
+            "name": "vesa.c",
+            "type": "url",
+            "url": "https://github.com/szhou42/osdev/blob/f942ece934237ccefe8cc3e72bc07f8d83b47ae5/src/kernel/drivers/vesa.c"
+         }, {
+            "date_added": "13270216128990803",
+            "guid": "3cfb6a9e-5dba-40ab-9014-9618fe6ad9e9",
+            "id": "13",
+            "name": "operating system - How can I Write Own Video Driver for My OS? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/67489025/how-can-i-write-own-video-driver-for-my-os"
+         }, {
+            "date_added": "13270216185032069",
+            "guid": "8bf26410-891c-4850-99dc-a72c8ec48697",
+            "id": "14",
+            "name": "c - How to write data to a graphics card without using BIOS? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/44443490/how-to-write-data-to-a-graphics-card-without-using-bios"
+         }, {
+            "date_added": "13270322707537775",
+            "guid": "918c9c28-8f64-4eab-9843-069ba7c573c2",
+            "id": "18",
+            "name": "Dream - Mask music video but with Gen Z humour and funni memes - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ucKpkwIBd_0"
+         }, {
+            "date_added": "13270550410852175",
+            "guid": "c8e292f4-f9ff-41f3-8ad9-7215090e5f31",
+            "id": "20",
+            "name": "gru finds cringe gaming intro - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=YG_4HxMQZx4"
+         }, {
+            "date_added": "13270894198118741",
+            "guid": "f5cb76c8-eb22-428c-8e6f-7386aa177ab0",
+            "id": "22",
+            "name": "cosminmocan/vfio-single-amdgpu-passthrough: This repo is a tutorial for single amd gpu passthrough to various qemu VMs",
+            "type": "url",
+            "url": "https://github.com/cosminmocan/vfio-single-amdgpu-passthrough"
+         } ],
+         "date_added": "13267227422867430",
+         "date_modified": "13270894198118741",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13267227422867431",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13267227422867432",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

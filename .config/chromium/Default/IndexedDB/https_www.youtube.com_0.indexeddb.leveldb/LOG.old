@@ -1,0 +1,18 @@
+2021/07/23-12:59:52.738 45b8 Reusing MANIFEST /home/gergoo007/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/23-12:59:52.739 45b8 Recovering log #934
+2021/07/23-12:59:52.740 45b8 Reusing old log /home/gergoo007/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000934.log 
+2021/07/23-12:59:52.751 45b8 Delete type=2 #933
+2021/07/23-12:59:53.728 3b65 Level-0 table #939: started
+2021/07/23-12:59:53.732 3b65 Level-0 table #939: 248051 bytes OK
+2021/07/23-12:59:53.734 3b65 Delete type=0 #934
+2021/07/23-12:59:53.734 3b65 Manual compaction at level-0 from ' .\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' /\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/23-12:59:53.746 45e3 Level-0 table #941: started
+2021/07/23-12:59:53.747 45e3 Level-0 table #941: 896 bytes OK
+2021/07/23-12:59:53.749 45e3 Delete type=0 #938
+2021/07/23-12:59:53.749 45e3 Manual compaction at level-0 from ' /\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' 0\x01\x00\x00\x00' @ 0 : 0; will stop at ' /\x01\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 368676 : 0
+2021/07/23-12:59:53.749 45e3 Compacting 1@0 + 1@1 files
+2021/07/23-12:59:53.751 45e3 Generated table #942@0: 450 keys, 10104 bytes
+2021/07/23-12:59:53.751 45e3 Compacted 1@0 + 1@1 files => 10104 bytes
+2021/07/23-12:59:53.752 45e3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/23-12:59:53.752 45e3 Delete type=2 #941
+2021/07/23-12:59:53.752 45e3 Manual compaction at level-0 from ' /\x01\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 368676 : 0 .. ' 0\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

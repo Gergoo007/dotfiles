@@ -1,0 +1,6 @@
+2021/07/23-12:42:59.891 5 Reusing MANIFEST /home/gergoo007/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/23-12:42:59.892 5 Recovering log #929
+2021/07/23-12:42:59.892 5 Reusing old log /home/gergoo007/.config/chromium/Default/Local Storage/leveldb/000929.log 
+2021/07/23-12:53:18.360 9 Level-0 table #936: started
+2021/07/23-12:53:18.361 9 Level-0 table #936: 22732 bytes OK
+2021/07/23-12:53:18.363 9 Delete type=0 #929

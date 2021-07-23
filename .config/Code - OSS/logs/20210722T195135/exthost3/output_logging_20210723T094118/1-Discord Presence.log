@@ -1,0 +1,364 @@
+[23/07/2021 09:41:18 - INFO] Discord Presence activated
+[23/07/2021 09:41:18 - INFO] Successfully connected to Discord
+[23/07/2021 09:41:18 - DEBUG] Loading git extension
+[23/07/2021 09:41:18 - TRACE] VSCode language id: c
+[23/07/2021 09:41:18 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:23 - TRACE] VSCode language id: c
+[23/07/2021 09:41:23 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:24 - TRACE] VSCode language id: c
+[23/07/2021 09:41:24 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:25 - TRACE] VSCode language id: c
+[23/07/2021 09:41:25 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:26 - TRACE] VSCode language id: c
+[23/07/2021 09:41:26 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:31 - TRACE] VSCode language id: c
+[23/07/2021 09:41:31 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:36 - TRACE] VSCode language id: c
+[23/07/2021 09:41:36 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:41 - TRACE] VSCode language id: c
+[23/07/2021 09:41:41 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:46 - TRACE] VSCode language id: c
+[23/07/2021 09:41:46 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:51 - TRACE] VSCode language id: c
+[23/07/2021 09:41:51 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:41:56 - TRACE] VSCode language id: c
+[23/07/2021 09:41:56 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:01 - TRACE] VSCode language id: c
+[23/07/2021 09:42:01 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:05 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:05 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:07 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:07 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:08 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:08 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:10 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:10 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:11 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:11 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:12 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:12 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:15 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:15 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:16 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:16 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:17 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:17 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:18 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:18 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:19 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:19 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:22 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Idling",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "vscode-big",
+  "largeImageText": "Idling",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS"
+}
+[23/07/2021 09:42:27 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:27 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:28 - TRACE] VSCode language id: c
+[23/07/2021 09:42:28 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:29 - TRACE] VSCode language id: c
+[23/07/2021 09:42:29 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:31 - TRACE] VSCode language id: c
+[23/07/2021 09:42:31 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:34 - TRACE] VSCode language id: jsonc
+[23/07/2021 09:42:34 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing settings.json",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "json",
+  "largeImageText": "Editing a JSON file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:35 - TRACE] VSCode language id: c
+[23/07/2021 09:42:35 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:40 - TRACE] VSCode language id: c
+[23/07/2021 09:42:40 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:41 - TRACE] VSCode language id: c
+[23/07/2021 09:42:41 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
+[23/07/2021 09:42:45 - TRACE] VSCode language id: c
+[23/07/2021 09:42:45 - DEBUG] Discord Presence being sent to discord:
+{
+  "details": "Editing main.c",
+  "startTimestamp": 1627026078651,
+  "largeImageKey": "c",
+  "largeImageText": "Editing a C file",
+  "smallImageKey": "vscode",
+  "smallImageText": "Code - OSS",
+  "state": "Workspace: bootloader"
+}
